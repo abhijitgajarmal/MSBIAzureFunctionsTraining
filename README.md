@@ -1,0 +1,2 @@
+# MSBIAzureFunctionsTraining
+Azure Functions Primer
